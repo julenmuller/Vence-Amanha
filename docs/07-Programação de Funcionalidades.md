@@ -6,7 +6,7 @@ Implementação do sistema descrita por meio dos requisitos funcionais e/ou não
 
 Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos desenvolvidos.
 
-|ID    | Descrição do Requisito  | Artefato produzido |
+|ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
 |RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
