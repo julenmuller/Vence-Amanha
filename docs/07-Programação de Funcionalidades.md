@@ -13,9 +13,11 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 
 # Instruções de acesso
 
-A aplicação está disponível no link xxxxx
+Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
 
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui.
+Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
+
+O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
 
 > **Links Úteis**:
 >
