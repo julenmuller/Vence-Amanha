@@ -6,6 +6,14 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
+
+### Requisitos Funcionais
+
+|ID    | Descrição do Requisito  | Artefato produzido |
+|------|-----------------------------------------|----|
+|RF-001| Permitir que o usuário cadastre tarefas |  | 
+|RF-002| Emitir um relatório de tarefas no mês   |  |
+
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
