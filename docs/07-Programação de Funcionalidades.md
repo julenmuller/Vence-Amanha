@@ -13,7 +13,8 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 
 # Instruções de acesso
 
-A aplicação está disponível para acesso em ...
+A aplicação está disponível no link xxxxx
+
 Se houver usuário de teste, o login e a senha também deverão ser informados aqui.
 
 > **Links Úteis**:
