@@ -2,10 +2,26 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos anteriormente definidos sendo satisfeitos.
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+Não deixe de enumerar de forma coerente. 
+
+Por exemplo:
  
+| Caso de Teste 	| CT-01 – Cadastrar perfil 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-001 - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
+| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar no M@tchbook. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
+|Critério de Êxito | - O cadastro foi realizado com sucesso. |
+|  	|  	|
+
+| Caso de Teste 	| CT-02 – Efetuar login	|
+|Requisito Associado | RF-004	- A aplicação deve possuir opção de fazer login, sendo o login endereço de e-mail. |
+| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar em "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
+|Critério de Êxito | - O login foi realizado com sucesso. |
+
 ## Ferramentas de Testes (Opcional)
 
 Comente sobre as ferramentas de testes utilizadas.
