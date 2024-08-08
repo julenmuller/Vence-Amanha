@@ -11,11 +11,12 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 |RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | Aluno 1 | Aluno 1, Aluno 2|
 |RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | relatorio.shtml | Aluno 3 | - |
 
-# Relato das dificuldades enfrentadas durante o desenvolvimento da Etapa 03
+# Relato das dificuldades e registro de evidências (???) no desenvolvimento da Etapa 03
 
-Descreva nesta seção, as principais dificuldades enfrentadas pelo grupo durante o desenvolvimento da Etapa 03. 
+Descreva nesta seção, as principais dificuldades enfrentadas pelo grupo durante o desenvolvimento da Etapa 03. Além disso, insira evidências que corroborem com o planejamento e execução da etapa (???)
 
-# Relato das dificuldades enfrentadas durante o desenvolvimento da Etapa 04
+# Relato das dificuldades e registro de evidências no desenvolvimento da Etapa 04
+
 
 Descreva nesta seção, as principais dificuldades enfrentadas pelo grupo durante o desenvolvimento da Etapa 04. 
 
