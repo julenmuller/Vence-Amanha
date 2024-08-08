@@ -7,7 +7,7 @@ Implementação do sistema descrita por meio dos requisitos funcionais e/ou não
 Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos desenvolvidos.
 
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) | Responsável(is) Etapa 03 | Responsável(is) Etapa 04 |
-|------|-----------------------------------------|----|
+|------|-----------------------------------------|----|----|----|
 |RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | Aluno 1 | Aluno 1, Aluno 2|
 |RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | relatorio.shtml | Aluno 3 | - |
 
