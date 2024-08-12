@@ -19,7 +19,7 @@ Identifique, em torno de, 5 personas. Para cada persona, lembre-se de descrever 
   <tr>
     <td><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-quem-paga-quanto/blob/main/docs/img/Roberto-Persona.jpeg" alt="Roberto Persona"></td>
     <td align="justify">Pedro Paulo Alves</td>
-    <td align="justify">Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros..</td>
+    <td align="justify">Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.</td>
   </tr>
 </table>
 
