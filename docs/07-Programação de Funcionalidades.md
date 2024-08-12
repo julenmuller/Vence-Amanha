@@ -10,7 +10,7 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 |------|-----------------------------------------|----|----|
 |RF-001| A aplicação deve permitir que o usuário avalie uma agência de intercâmbio com base na sua experiência|  |  |
 |RF-002| A aplicação deve permitir que o usuário inclua comentários ao fazer uma avaliação de uma agência de intercâmbio     |  |  |
-|RF-003| A aplicação deve permitir consulte todas as agências de intercâmbio ordenando-as com base em suas notas |  |  |
+|RF-003| A aplicação deve permitir que o usuário consulte todas as agências de intercâmbio cadastradas ordenando-as com base em suas notas |  |  |
 
 
 # Instruções de acesso
