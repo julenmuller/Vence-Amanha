@@ -12,11 +12,11 @@ Identifique, em torno de, 5 personas. Para cada persona, lembre-se de descrever 
 
 |   | Nome  | Descrição   |
 |   | ------- | -------- |
-|   | Ana Paula Alves   |   Idade: 26 anos
-                            Profissão: Designer Gráfico
-                            Localização: São Paulo, Brasil
-                            Formação: Graduação em Design Gráfico
-                            Objetivo: Estudar design em uma instituição renomada fora do Brasil  |
+|   | Ana Paula Alves   |   Idade: 26 anos|
+|   |                   |   Profissão: Designer Gráfico |
+|   |                   |   Localização: São Paulo, Brasil|
+|   |                   |   Formação: Graduação em Design Gráfico|
+|   |                   |   Objetivo: Estudar design em uma instituição renomada fora do Brasil  |
 |   | ------- | -------- |
 | Texto   | Texto    |
 
