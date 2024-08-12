@@ -55,7 +55,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| A aplicação deve permitir que o usuário avalie uma agência de intercâmbio com base na sua experiência| ALTA | 
 |RF-002| A aplicação deve permitir que o usuário inclua comentários ao fazer uma avaliação de uma agência de intercâmbio    | ALTA |
-|RF-003| A aplicação deve permitir consulte todas as agências de intercâmbio ordenando-as com base em suas notas | ALTA |
+|RF-003| A aplicação deve permitir que o usuário consulte todas as agências de intercâmbio ordenando-as com base em suas notas | ALTA |
 
 ### Requisitos não Funcionais
 
