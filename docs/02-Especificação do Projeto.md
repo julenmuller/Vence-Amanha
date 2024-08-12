@@ -8,6 +8,18 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
+<table>
+  <tr>
+    <th>Imagem</th>
+    <th>Nome</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-quem-paga-quanto/blob/main/docs/img/Roberto-Persona.jpeg" alt="Roberto Persona"></td>
+    <td align="justify">Roberto da Silva</td>
+    <td align="justify">Roberto tem 26 anos, trabalha como desenvolvedor e mora com sua namorada que irá começar a contribuir nas contas de casa agora que formou e arranjou um emprego.<br> Roberto quer dividir as contas de forma proporcional já que no passado ao tentar dividir as contas da forma convencional (meio a meio), não sobrava nada para sua namorada. Considerando isso, ele está procurando uma ferramenta para calcular quanto cada um deve contribuir de uma forma que sobre dinheiro para ambos.</td>
+  </tr>
+</table>
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
