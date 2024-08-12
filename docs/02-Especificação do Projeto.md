@@ -17,9 +17,16 @@ Identifique, em torno de, 5 personas. Para cada persona, lembre-se de descrever 
     <th>Descrição</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-quem-paga-quanto/blob/main/docs/img/Roberto-Persona.jpeg" alt="Roberto Persona"></td>
-    <td align="justify">Pedro Paulo Alves</td>
-    <td align="justify">Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.</td>
+    <td><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-quem-paga-quanto/blob/main/docs/img/Roberto-Persona.jpeg" alt="Ana Claraa"></td>
+    <td align="justify">Ana Clara Bastos</td>
+    <td align="justify">Idade: 26 anos
+Profissão: Designer Gráfico
+Localização: São Paulo, Brasil
+Formação: Graduação em Design Gráfico
+Objetivo: Estudar design em uma instituição renomada fora do Brasil</td>
+  </tr>
+  <tr>
+    
   </tr>
 </table>
 
@@ -42,8 +49,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|João da Silva  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Pedro Gomes       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
