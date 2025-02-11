@@ -39,7 +39,7 @@ Os cenários representam tarefas reais que os usuários executam no sistema. Nes
 
 **Objetivo:** Avaliar a facilidade e eficiência do usuário em pesquisar, adicionar um produto ao carrinho e finalizar a compra sem dificuldades.
 
-**Contexto:** O usuário deseja comprar um notebook para uso pessoal. Ele entra no site www.compras.com.br para buscar opções disponíveis, comparar preços, adicionar o produto ao carrinho e finalizar a compra com pagamento via cartão de crédito.
+**Contexto:** O usuário deseja comprar um notebook para uso pessoal. Para isso, ele deverá entrar no site www.compras.com.br para buscar opções disponíveis, comparar preços, adicionar o produto ao carrinho e finalizar a compra com pagamento via cartão de crédito.
 
 **Tarefa(s):** 
 - Acessar o site e localizar a barra de pesquisa.
