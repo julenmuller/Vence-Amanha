@@ -4,7 +4,7 @@
 
 Nesta seção, a implementação do sistema descrita por meio dos requisitos funcionais e/ou não funcionais. Nesta seção, é essencial relacionar os requisitos atendidos com os artefatos criados (código fonte) e com o(s) responsável(is) pelo desenvolvimento de cada artefato a cada etapa. Nesta seção também deverão ser apresentadas, se necessário, as instruções para acesso e verificação da **implementação que deve estar funcional no ambiente de hospedagem obrigatoriamente a partir da Etapa 03**.
 
-O que DEVE ser utilizado para o desenvolvimento da aplicação:
+**O que DEVE ser utilizado para o desenvolvimento da aplicação:**
 - Microsoft Visual Studio (IDE de Codificação)
 - HTML e CSS (frontend)
 - Javascript (frontend)
@@ -13,7 +13,7 @@ O que DEVE ser utilizado para o desenvolvimento da aplicação:
 - Bootstrap (template responsivo para frontend)
 - Github (documentação e controle de versão)
 
-O que NÃO PODE ser utilizado
+**O que NÃO PODE ser utilizado:**
 - Template React (e qualquer outro template - exceto o Bootstrap)
 - Qualquer outra liguagem de programação diferente de C#
 
