@@ -50,3 +50,11 @@ Para isso, segue uma sugestão de estrutura a ser seguida:
 - Mostre o diferencial da proposta (o que a torna única ou melhor que alternativas existentes).
 - Gaste, pelo menos, 50% do tempo total do vídeo, apresentando uma demonstração da ferramenta desenvolvida, ressaltando suas funcionalidades, como essas funcionalidades atendem ao problema identificado e foque em interações-chave que reforcem o valor da solução para o usuário final.
 - Finalize com uma frase de impacto ou um convite à ação (por exemplo: “Com nossa solução, empresas e usuários podem…”).
+
+### Dicas extras 
+- Antes de gravar, escreva um roteiro detalhado com falas, tempo estimado e cenas.
+- Treine a apresentação para manter ritmo e naturalidade ou utilize alguma ferramenta de IA para a narração.
+- Grave em partes se necessário e edite para encaixar no tempo máximo.
+- Seja objetivo(a): cada segundo conta.
+- Evite termos técnicos excessivos — use linguagem clara e acessível.
+- Transmita entusiasmo e confiança no projeto.
