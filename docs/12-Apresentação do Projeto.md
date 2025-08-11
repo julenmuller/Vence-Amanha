@@ -27,8 +27,26 @@ O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro 
 
 ## Vídeo de apresentação - Etapa 01
 
-Inclua aqui o link do vídeo da APRESENTAÇÃO INICIAL do projeto produzido na Etapa 01.
+Inclua aqui o vídeo de APRESENTAÇÃO INICIAL do projeto produzido na Etapa 01.
 
 ## Vídeo de apresentação - Etapa 05
 
-Inclua aqui o link do vídeo da APRESENTAÇÃO FINAL do projeto produzido na Etapa 05.
+Inclua aqui o vídeo de APRESENTAÇÃO FINAL do projeto produzido na Etapa 05.
+
+### Orientações para Produção do Vídeo Pitch – Projeto Final
+
+O vídeo, em formato de _pitch_, deve ter no máximo 3 minutos e apresentar, de forma objetiva e envolvente, o problema identificado, sua relevância e a solução desenvolvida. 
+Lembre-se: o objetivo é convencer o público da importância e impacto do seu trabalho.
+
+Para isso, segue uma sugestão de estrutura a ser seguida:
+- Comece com uma frase, dado ou situação que prenda a atenção do público.
+- Evite apresentações longas de equipe — o foco inicial é gerar interesse.
+- Descreva o problema identificado. 
+- Mostre, de preferência com números, como o problema afeta pessoas ou organizações no dia a dia.
+- Descreva consequências, prejuízos ou dificuldades causadas pela situação atual.
+- Reforce a urgência ou relevância de resolvê-lo.
+- Resuma muito brevemente a proposta de solução.
+- Explique de forma simples como a solução funciona.
+- Mostre o diferencial da proposta (o que a torna única ou melhor que alternativas existentes).
+- Gaste, pelo menos, 50% do tempo total do vídeo, apresentando uma demonstração da ferramenta desenvolvida, ressaltando suas funcionalidades, como essas funcionalidades atendem ao problema identificado e foque em interações-chave que reforcem o valor da solução para o usuário final.
+- Finalize com uma frase de impacto ou um convite à ação (por exemplo: “Com nossa solução, empresas e usuários podem…”).
