@@ -21,12 +21,12 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Instruções de Instalação, Execução e Acesso
 
-1) Acesso rápido (produção)
+**Acesso rápido (produção)**
 * URL da aplicação: https://seu-dominio.com/caminho
 * Status: online / instável / em manutenção (atualize conforme o caso)
 * Ambiente: produção / homologação
 
-Usuário(s) de teste (se houver):
+**Usuário(s) de teste (se houver):**
 * Login: usuario_teste
 * Senha: senha_teste
 
