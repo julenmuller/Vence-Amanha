@@ -19,7 +19,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Nome completo do professor 1
 
-## Instruções de utilização
+## Instruções de Instalação, Execução e Acesso
+1) Acesso rápido (produção)
+- URL da aplicação: https://seu-dominio.com/caminho
+- Status: online / instável / em manutenção (atualize conforme o caso)
+- Ambiente: produção / homologação
+
+Usuário(s) de teste (se houver):
+- Login: usuario_teste
+- Senha: senha_teste
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
