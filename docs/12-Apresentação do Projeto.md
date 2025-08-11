@@ -33,7 +33,7 @@ Inclua aqui o vídeo de APRESENTAÇÃO INICIAL do projeto produzido na Etapa 01.
 
 Inclua aqui o vídeo de APRESENTAÇÃO FINAL do projeto produzido na Etapa 05.
 
-### Orientações para Produção do Vídeo Pitch – Projeto Final
+### Orientações para Produção do Vídeo Pitch (Etapa 05)
 
 O vídeo, em formato de _pitch_, deve ter no máximo 3 minutos e apresentar, de forma objetiva e envolvente, o problema identificado, sua relevância e a solução desenvolvida. 
 Lembre-se: o objetivo é convencer o público da importância e impacto do seu trabalho.
