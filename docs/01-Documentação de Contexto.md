@@ -25,9 +25,9 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Explique de forma clara a relevância da aplicação escolhida, justificando os objetivos específicos e os aspectos do software que serão aprofundados, e quantifique o impacto do problema com dados concretos (números, percentuais, indicadores) obtidos por bases oficiais ou outras fontes confiáveis, sempre citadas no padrão ABNT. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo. Ou, o grupo poderá consultar e justificar o impacto do problema para o público-alvo por meio de pesquisas em outras fontes. Neste caso, é essencial que todos os dados apresentados estejam acompanhados de suas fontes (conforme padrão ABNT).
+Relacione o problema aos Objetivos de Desenvolvimento Sustentável (ODS), indicando quais ODS e subobjetivos são atendidos e descrevendo como o projeto contribui para cada um deles, garantindo coerência entre o impacto mensurado e as metas selecionadas.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
