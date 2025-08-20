@@ -16,15 +16,16 @@ Utilize também como referência o exemplo abaixo:
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> 
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
+Maria, 42 anos – Feirante tradicional
+Atua em feiras livres há mais de 15 anos e enfrenta perdas recorrentes de mercadorias. Busca alternativas para aumentar sua rentabilidade sem elevar custos.
+
+João, 29 anos – Consumidor consciente
+Profissional autônomo que valoriza práticas sustentáveis e busca alimentos frescos a preços justos. Vê na plataforma uma forma de contribuir com a redução do desperdício.
+
+Clara, 35 anos – Consumidora de baixa renda
+Responsável pelas compras da família, procura economia sem abrir mão da qualidade. Aceita adquirir produtos próximos ao vencimento, desde que estejam adequados para consumo.
+
+
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
