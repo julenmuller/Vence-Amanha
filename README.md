@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+#   Sell Green / Venda Verde
 
-`CURSO`
+`Análise e Dsenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`2025.2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A presente aplicação web propõe-se a oferecer uma solução tecnológica para otimizar a relação entre feirantes e consumidores, promovendo a comercialização de frutas, verduras e legumes a preços mais acessíveis. O sistema possibilita que feirantes disponibilizem produtos próximos ao vencimento ou excedentes da feira, reduzindo o desperdício de alimentos e aumentando a eficiência da cadeia de abastecimento. Simultaneamente, consumidores têm acesso a alimentos de qualidade com menor custo, o que favorece não apenas a economia local, mas também práticas de consumo mais sustentáveis. Dessa forma, a aplicação busca aliar tecnologia, acessibilidade e sustentabilidade, contribuindo para a redução de perdas alimentares e para a valorização da produção agrícola.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Juliana Gimenes Müller
+* Pedro Henrique Santos
+* Luan Ducate
+* Tales Chaves
+* Vinicius Paiva
+* Thiago Diniz
+* Matheus Grezzi
 
 ## Orientador
 
-* Nome completo do professor
+Carlos Alberto Marques Pietrobon
 
 ## Instruções de Instalação, Execução e Acesso
 
