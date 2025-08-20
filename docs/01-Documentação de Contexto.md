@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto “Feira Anti-Desperdício” propõe o desenvolvimento web backend de um sistema simples que conecta feirantes e pequenos mercados a consumidores e instituições sociais, permitindo a oferta de alimentos próximos do vencimento com descontos. A solução busca reduzir o desperdício, gerar renda para os pequenos comerciantes e ampliar o acesso a alimentos por famílias com orçamento limitado. O projeto se alinha especialmente às ODS 2 (Fome Zero), ODS 12 (Consumo e Produção Responsáveis) e ODS 11 (Cidades e Comunidades Sustentáveis).
 
 ## Problema
 O desperdício de alimentos constitui um dos principais desafios enfrentados na atualidade, impactando tanto a economia quanto a sustentabilidade ambiental. Nas feiras livres, esse problema se manifesta de forma significativa, visto que grande parte dos feirantes acaba descartando frutas, verduras e legumes que não foram vendidos ou que estão próximos do vencimento. Essa prática, além de representar prejuízos financeiros diretos aos comerciantes, contribui para o aumento do desperdício de alimentos que ainda poderiam ser aproveitados. Paralelamente, muitos consumidores encontram barreiras no acesso a alimentos frescos e de qualidade, principalmente em situações de vulnerabilidade socioeconômica. Dessa forma, evidencia-se uma lacuna entre a disponibilidade de produtos que seriam descartados e a demanda por alimentos mais acessíveis e sustentáveis.
