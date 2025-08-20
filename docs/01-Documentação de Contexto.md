@@ -12,28 +12,41 @@ O desperdício de alimentos constitui um dos principais desafios enfrentados na 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Desenvolver uma aplicação web que conecte feirantes e consumidores, possibilitando a comercialização de frutas, verduras e legumes excedentes ou próximos ao vencimento, com foco na redução do desperdício alimentar, na promoção da sustentabilidade e no acesso a alimentos de qualidade por preços mais acessíveis.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Explique de forma clara a relevância da aplicação escolhida, justificando os objetivos específicos e os aspectos do software que serão aprofundados, e quantifique o impacto do problema com dados concretos (números, percentuais, indicadores) obtidos por bases oficiais ou outras fontes confiáveis, sempre citadas no padrão ABNT (no formato [Numérico] ou (AUTOR, ANO)).
+A relevância desta proposta encontra-se na intersecção entre aspectos sociais, econômicos e ambientais. A problemática do desperdício de alimentos em feiras livres configura-se como um dilema que, além de reduzir os ganhos dos feirantes, intensifica desigualdades sociais em um cenário onde parte da população enfrenta restrições no acesso a alimentos básicos.
 
-**Relacione o problema aos Objetivos de Desenvolvimento Sustentável (ODS), indicando quais ODS e subobjetivos são atendidos e descrevendo como o projeto contribui para cada um deles, garantindo coerência entre o impacto mensurado e as metas selecionadas.**
+Nesse sentido, a aplicação web apresenta-se como uma alternativa viável para transformar um problema em oportunidade. Para os feirantes, a solução possibilita reduzir perdas e aumentar a lucratividade por meio da comercialização de produtos que seriam descartados. Para os consumidores, sobretudo os de baixa renda, a proposta oferece acesso a alimentos de qualidade por valores mais acessíveis. De forma mais ampla, a iniciativa contribui para práticas de consumo consciente e para a construção de uma sociedade mais sustentável.
+
+// Explique de forma clara a relevância da aplicação escolhida, justificando os objetivos específicos e os aspectos do software que serão aprofundados, e quantifique o impacto do problema com dados concretos (números, percentuais, indicadores) obtidos por bases oficiais ou outras fontes confiáveis, sempre citadas no padrão ABNT (no formato [Numérico] ou (AUTOR, ANO)).
+
+//**Relacione o problema aos Objetivos de Desenvolvimento Sustentável (ODS), indicando quais ODS e subobjetivos são atendidos e descrevendo como o projeto contribui para cada um deles, garantindo coerência entre o impacto mensurado e as metas selecionadas.**
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+A aplicação proposta será utilizada principalmente por dois perfis distintos de usuários: feirantes e consumidores finais. Embora ambos compartilhem o interesse pela comercialização e aquisição de alimentos, cada grupo possui características particulares no que se refere ao conhecimento prévio, à relação com a tecnologia e às necessidades específicas.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+* Feirantes
+
+Os feirantes representam um público diversificado, composto tanto por pequenos produtores rurais quanto por comerciantes que atuam tradicionalmente em feiras livres urbanas. Em sua maioria, são trabalhadores autônomos, com experiência prática no cultivo ou na venda de frutas, verduras e legumes. Do ponto de vista hierárquico, os feirantes costumam atuar de forma independente, ainda que alguns estejam vinculados a cooperativas ou associações locais. Dessa forma, a plataforma pode favorecer tanto o vendedor individual quanto grupos organizados que busquem ampliar seu alcance de mercado.
+
+No que se refere à tecnologia, observa-se uma heterogeneidade: enquanto alguns feirantes já utilizam smartphones e aplicativos de mensagens como ferramentas de apoio ao trabalho, outros possuem apenas um conhecimento básico, limitando-se ao uso de chamadas telefônicas e redes sociais. Portanto, é fundamental que a aplicação seja intuitiva e de fácil utilização, minimizando barreiras tecnológicas.
+
+
+* Consumidores finais
+
+Hierarquicamente, os consumidores finais não apresentam vínculos organizacionais ou institucionais em relação ao uso da aplicação, sendo usuários independentes. Entretanto, suas escolhas de consumo podem impactar diretamente a dinâmica econômica local e a redução do desperdício alimentar.
+
+Os consumidores finais apresentam-se em dois perfis principais:
+
+Consumidores de baixa renda: geralmente responsáveis pelas compras domésticas, possuem maior sensibilidade a preços e buscam alternativas que possibilitem economia sem abrir mão da qualidade. Muitos já fazem uso de smartphones para comunicação e, cada vez mais, para transações online. Entretanto, podem não possuir familiaridade com plataformas complexas, reforçando a necessidade de uma interface simples e acessível.
+
+Consumidores conscientes: são pessoas que valorizam práticas de consumo sustentável e estão dispostas a adquirir produtos próximos ao vencimento, desde que próprios para consumo. Em geral, possuem maior familiaridade com tecnologia, utilizam aplicativos de compra e venda com frequência e estão inseridos em um contexto de valorização do impacto social e ambiental de suas escolhas.
