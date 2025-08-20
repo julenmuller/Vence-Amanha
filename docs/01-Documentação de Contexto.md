@@ -19,20 +19,15 @@ Desenvolver uma aplicação web que conecte feirantes e consumidores, possibilit
 
 ## Justificativa
 
+"O desperdício alimentar, proveniente exclusivamente da atividade final da cadeia de abastecimento alimentar, concentrado do varejo aos domicílios, carece de atenção mundialmente pelo envolvimento de tantas questões relevantes para a sociedade. No Brasil, o desperdício de alimentos alcança uma proporção desalinhada  à  situação  de  insegurança  alimentar  que  atinge  parcela  considerável  da  população.  Dados apontam  que  o  volume  desperdiçado  garantiria  calorias  necessárias  para  redução  da  fome  no  país  de forma que afetasse menos de 5%." (BENÍTEZ, 2023).
+
 A relevância desta proposta encontra-se na intersecção entre aspectos sociais, econômicos e ambientais. A problemática do desperdício de alimentos em feiras livres configura-se como um dilema que, além de reduzir os ganhos dos feirantes, intensifica desigualdades sociais em um cenário onde parte da população enfrenta restrições no acesso a alimentos básicos.
 
 Nesse sentido, a aplicação web apresenta-se como uma alternativa viável para transformar um problema em oportunidade. Para os feirantes, a solução possibilita reduzir perdas e aumentar a lucratividade por meio da comercialização de produtos que seriam descartados. Para os consumidores, sobretudo os de baixa renda, a proposta oferece acesso a alimentos de qualidade por valores mais acessíveis. De forma mais ampla, a iniciativa contribui para práticas de consumo consciente e para a construção de uma sociedade mais sustentável.
 
-// Explique de forma clara a relevância da aplicação escolhida, justificando os objetivos específicos e os aspectos do software que serão aprofundados, e quantifique o impacto do problema com dados concretos (números, percentuais, indicadores) obtidos por bases oficiais ou outras fontes confiáveis, sempre citadas no padrão ABNT (no formato [Numérico] ou (AUTOR, ANO)).
-
-//**Relacione o problema aos Objetivos de Desenvolvimento Sustentável (ODS), indicando quais ODS e subobjetivos são atendidos e descrevendo como o projeto contribui para cada um deles, garantindo coerência entre o impacto mensurado e as metas selecionadas.**
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
-A aplicação proposta será utilizada principalmente por dois perfis distintos de usuários: feirantes e consumidores finais. Embora ambos compartilhem o interesse pela comercialização e aquisição de alimentos, cada grupo possui características particulares no que se refere ao conhecimento prévio, à relação com a tecnologia e às necessidades específicas.
+A aplicação proposta será utilizada principalmente por dois perfis distintos de usuários: Feirantes e Consumidores finais. Embora ambos compartilhem o interesse pela comercialização e aquisição de alimentos, cada grupo possui características particulares no que se refere ao conhecimento prévio, à relação com a tecnologia e às necessidades específicas.
 
 * Feirantes
 
@@ -43,9 +38,9 @@ No que se refere à tecnologia, observa-se uma heterogeneidade: enquanto alguns 
 
 * Consumidores finais
 
-Hierarquicamente, os consumidores finais não apresentam vínculos organizacionais ou institucionais em relação ao uso da aplicação, sendo usuários independentes. Entretanto, suas escolhas de consumo podem impactar diretamente a dinâmica econômica local e a redução do desperdício alimentar.
+Os consumidores finais, hierarquicamente, não apresentam vínculos organizacionais ou institucionais em relação ao uso da aplicação, sendo usuários independentes. Entretanto, suas escolhas de consumo podem impactar diretamente a dinâmica econômica local e a redução do desperdício alimentar.
 
-Os consumidores finais apresentam-se em dois perfis principais:
+Portanto, os consumidores finais apresentam-se em dois perfis principais:
 
 Consumidores de baixa renda: geralmente responsáveis pelas compras domésticas, possuem maior sensibilidade a preços e buscam alternativas que possibilitem economia sem abrir mão da qualidade. Muitos já fazem uso de smartphones para comunicação e, cada vez mais, para transações online. Entretanto, podem não possuir familiaridade com plataformas complexas, reforçando a necessidade de uma interface simples e acessível.
 
