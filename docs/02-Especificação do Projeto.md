@@ -107,6 +107,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | Antônio (Agricultor) | Ter minhas ofertas excluídas automaticamente após a validade  | Evitar problemas com consumidores e manter a confiança           |
 | Antônio (Agricultor) | Visualizar a média de avaliação da minha feira                | Acompanhar minha reputação e planejar melhorias nas vendas       |
 
+
 ## Busca e Compra de Produtos (Consumidores)
 
 | EU COMO... `PERSONA`               | QUERO/PRECISO ... `FUNCIONALIDADE`                                    | PARA ... `MOTIVO/VALOR`                                            |
