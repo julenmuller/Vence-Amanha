@@ -8,25 +8,93 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Identifique, em torno de, 5 personas. Para cada persona, lembre-se de descrever suas angústicas, frustrações e expectativas de vida relacionadas ao problema. Além disso, defina uma "aparência" para a persona. Para isso, você poderá utilizar sites como [https://this-person-does-not-exist.com/pt#google_vignette](https://this-person-does-not-exist.com/pt) ou https://thispersondoesnotexist.com/ 
+*Persona 1 – Maria Silva*
 
-Utilize também como referência o exemplo abaixo:
+Idade: 42 anos
+Profissão: Feirante
+Localização: Belo Horizonte – MG
+Formação: Ensino Fundamental incompleto
+Objetivo: Vender todas as mercadorias da feira e evitar perdas financeiras.
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/IntApplicationProject-Template/blob/main/docs/img/AnaClara1.png" alt="Persona1"/>
+Descrição:
+Maria é uma feirante tradicional que trabalha há mais de 15 anos em uma feira de bairro. Conhecida por sua simpatia, tem uma clientela fiel, mas enfrenta dificuldades constantes para vender todos os produtos que leva para a feira. No final do dia, muitos alimentos ainda bons acabam sendo descartados. Maria já utiliza um celular para se comunicar com clientes pelo WhatsApp, mas nunca usou uma plataforma digital de vendas.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Dores:
+Maria se frustra ao ver parte de sua produção ir para o lixo, o que representa prejuízo financeiro. Ela sente falta de uma forma simples de escoar os produtos restantes da feira. Além disso, tem receio de soluções tecnológicas muito complexas, já que seu conhecimento digital é limitado.
 
-Maria, 42 anos – Feirante tradicional
-Atua em feiras livres há mais de 15 anos e enfrenta perdas recorrentes de mercadorias. Busca alternativas para aumentar sua rentabilidade sem elevar custos.
-
-João, 29 anos – Consumidor consciente
-Profissional autônomo que valoriza práticas sustentáveis e busca alimentos frescos a preços justos. Vê na plataforma uma forma de contribuir com a redução do desperdício.
-
-Clara, 35 anos – Consumidora de baixa renda
-Responsável pelas compras da família, procura economia sem abrir mão da qualidade. Aceita adquirir produtos próximos ao vencimento, desde que estejam adequados para consumo.
+Expectativas:
+Maria espera uma aplicação simples e intuitiva, onde possa cadastrar seus produtos rapidamente e alcançar consumidores que valorizem alimentos frescos a preços acessíveis. Seu desejo é reduzir perdas e aumentar a renda familiar.
 
 
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+*Persona 2 – João Andrade*
+
+Idade: 29 anos
+Profissão: Designer gráfico autônomo
+Localização: São Paulo – SP
+Formação: Ensino Superior completo
+Objetivo: Adquirir alimentos frescos a preços justos e apoiar práticas sustentáveis.
+
+Descrição:
+João é um jovem urbano que trabalha como freelancer e costuma organizar bem seus gastos mensais. Adepto de práticas sustentáveis, prefere andar de bicicleta e comprar alimentos em feiras orgânicas. No entanto, sente dificuldade em encontrar preços acessíveis em grandes centros urbanos e acaba recorrendo a supermercados.
+
+Dores:
+João sente que muitas vezes paga caro por alimentos de qualidade. Ele também gostaria de ter maior transparência sobre a origem dos produtos que consome.
+
+Expectativas:
+Espera encontrar uma plataforma digital que permita visualizar produtos frescos próximos ao vencimento com preços reduzidos, além de informações sobre procedência. Deseja contribuir para a redução do desperdício e apoiar pequenos produtores locais.
+
+
+*Persona 3 – Clara Souza*
+
+Idade: 35 anos
+Profissão: Auxiliar administrativa
+Localização: Contagem – MG
+Formação: Ensino Médio completo
+Objetivo: Reduzir gastos com alimentação sem comprometer a saúde da família.
+
+Descrição:
+Clara é mãe de dois filhos e responsável pelas compras da casa. Seu orçamento mensal é apertado, e ela está sempre em busca de promoções e formas de economizar. Usa o celular diariamente para redes sociais e compras online, mas prefere aplicativos simples e objetivos.
+
+Dores:
+Clara enfrenta a dificuldade de conciliar qualidade e preço. Muitas vezes acaba comprando alimentos de menor valor nutricional porque os frescos são mais caros.
+
+Expectativas:
+Espera receber notificações sobre ofertas em feiras próximas e encontrar facilmente produtos frescos por preços acessíveis. Deseja melhorar a alimentação da família sem estourar o orçamento doméstico.
+
+*Persona 4 – Antônio Ribeiro*
+
+Idade: 56 anos
+Profissão: Agricultor familiar
+Localização: Mariana – MG (zona rural)
+Formação: Ensino Fundamental completo
+Objetivo: Ampliar o alcance de seus produtos para clientes urbanos.
+
+Descrição:
+Antônio vive da agricultura familiar e leva sua produção semanalmente para a feira da cidade. Muitas vezes não consegue vender todos os produtos, o que gera perdas. Ele tem celular, mas seu uso é limitado a ligações e mensagens no WhatsApp.
+
+Dores:
+Antônio perde parte da produção por falta de compradores. Ele também sente dificuldade em acessar clientes que moram em áreas urbanas mais distantes.
+
+Expectativas:
+Espera que a aplicação seja acessível e ajude a alcançar novos consumidores, garantindo que sua produção não seja desperdiçada. Deseja aumentar sua renda e ter mais previsibilidade sobre suas vendas.
+
+
+*Persona 5 – Luana Ferreira*
+
+Idade: 23 anos
+Profissão: Estudante de Nutrição
+Localização: Curitiba – PR
+Formação: Ensino Superior em andamento
+Objetivo: Comprar alimentos frescos e saudáveis gastando pouco.
+
+Descrição:
+Luana é estudante universitária e mora sozinha em uma cidade grande. Tem um orçamento limitado, mas se preocupa em manter uma alimentação equilibrada. Está sempre conectada e utiliza diferentes aplicativos de delivery e compras.
+
+Dores:
+Luana acha difícil manter uma dieta saudável por causa dos preços elevados dos alimentos frescos. Muitas vezes acaba recorrendo a refeições rápidas e industrializadas.
+
+Expectativas:
+Espera uma plataforma fácil de usar, com boas promoções em frutas, verduras e legumes. Deseja praticidade para comprar rapidamente pelo celular, conciliando sua rotina de estudos com hábitos alimentares mais saudáveis.
 
 ## Histórias de Usuários
 
